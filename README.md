@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a young programmer who mostly codes in:
+- JavaScript and Typescript
+- C#
+- Java
+
+My current projects are:
+- [Servcord-Server](https://github.com/20PercentRendered/servcord-server)
+- [Nodedecks](https://github.com/20PercentRendered/nodedecks)
+
+I am currently learning:
+- NodeJS servers using express
+- Server Architecture
