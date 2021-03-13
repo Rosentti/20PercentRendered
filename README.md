@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 I am a young programmer who mostly codes in:
 - JavaScript and Typescript
-- C#
 - Java
 
 My current projects are:
