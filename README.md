@@ -20,7 +20,7 @@ I am a young programmer who mostly codes in:
 
 My current projects are:
 - [Servcord-Server](https://github.com/20PercentRendered/servcord-server)
-- [Nodedecks](https://github.com/20PercentRendered/nodedecks)
+- [Servcord-Client](https://github.com/20PercentRendered/servcord-client)
 
 I am currently learning:
 - NodeJS servers using express
