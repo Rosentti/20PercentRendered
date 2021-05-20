@@ -18,7 +18,7 @@ I am a young software developer who mostly codes in:
 - JavaScript and Typescript
 
 My current projects are:
-- [Servcord-Server](https://github.com/20PercentRendered/servcord-server)
+- [Servcord](https://github.com/servcord)
 - [Servcord-Client](https://github.com/20PercentRendered/servcord-client)
 
 I am currently learning:
