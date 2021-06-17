@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 I am a young software developer who mostly codes in:
 - JavaScript and Typescript
 
-My current projects are:
-- [Servcord](https://github.com/servcord)
-- [Servcord-Client](https://github.com/20PercentRendered/servcord-client)
+My current project is:
+- [servcord](https://github.com/servcord)
 
 I am currently learning:
 - NodeJS servers using express
 - Server Architecture(Microservices, etc)
+- WebRtc
 - C++
