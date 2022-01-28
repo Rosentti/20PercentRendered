@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a young software developer who mostly codes in:
+I am a software developer who mostly codes in:
 - JavaScript and Typescript
+- C#
 
 My current project is:
 - [servcord](https://github.com/servcord)
