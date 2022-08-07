@@ -18,9 +18,9 @@ I am a software developer who mostly codes in:
 - JavaScript and Typescript
 - C#
 
-My current project is:
+<!--My current project is:
 - [Campfire](https://github.com/servcord)
-
+-->
 I am currently learning:
 - NodeJS servers using express
 - Server Architecture(Microservices, etc)
