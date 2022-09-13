@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software developer who mostly codes in:
+Hi, I'm Onni. I'm a 16-year-old software developer.
+I'm currently studying at Riveria for Information and Communication technologies.
+I mostly codes in:
 - JavaScript and Typescript
 - C#
+However, I'm looking to get into Rust as well.
 
-<!--My current project is:
+<!--My "current" projects are:
 - [Campfire](https://github.com/servcord)
+- [creamlinux](https://github.com/20PercentRendered/creamlinux)
 -->
-I am currently learning:
-- NodeJS servers using express
-- Server Architecture(Microservices, etc)
-- WebRtc
-- C++
+
