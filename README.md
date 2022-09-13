@@ -21,8 +21,8 @@ I mostly codes in:
 - C#
 However, I'm looking to get into Rust as well.
 
-<!--My "current" projects are:
+My "current" projects are:
 - [Campfire](https://github.com/servcord)
 - [creamlinux](https://github.com/20PercentRendered/creamlinux)
--->
+
 
