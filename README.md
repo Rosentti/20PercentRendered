@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Onni. I'm a 16-year-old software developer.
+Hi, I'm Onni. I'm a 16-year-old software developer from Finland 🇫🇮.
 I'm currently studying at Riveria for Information and Communication technologies.
-I mostly codes in:
-- JavaScript and Typescript
+I mostly code in:
 - C#
+- JavaScript and Typescript
 However, I'm looking to get into Rust as well.
 
 My "current" projects are:
