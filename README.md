@@ -22,7 +22,7 @@ I mostly code in:
 However, I'm looking to get into Rust as well.
 
 My "current" projects are:
-- [Nitrox-20Percent](https://github.com/20PercentRendered/Nitrox)
+- [Nitrox](https://github.com/SubnauticaNitrox/Nitrox)
 - [creamlinux](https://github.com/20PercentRendered/creamlinux)
 
 
