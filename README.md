@@ -19,7 +19,7 @@ I'm currently studying at Riveria for Information and Communication technologies
 I mostly code in:
 - C#
 - JavaScript and Typescript
-However, I'm looking to get into Rust as well.
+- C++
 
 My "current" projects are:
 - [Opensteamclient](https://github.com/20PercentRendered/steamclient_testing)
