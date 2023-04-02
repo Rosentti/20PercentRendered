@@ -22,6 +22,6 @@ I mostly code in:
 However, I'm looking to get into Rust as well.
 
 My "current" projects are:
-- [Nitrox](https://github.com/SubnauticaNitrox/Nitrox)
+- [Opensteamclient](https://github.com/20PercentRendered/steamclient_testing)
 
 
