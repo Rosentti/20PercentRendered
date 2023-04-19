@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 Hi, I'm Onni. I'm a 16-year-old software developer from Finland 🇫🇮.
 I'm currently studying at Riveria for Information and Communication technologies.
 I mostly code in:
-- C#
-- JavaScript and Typescript
 - C++
+- JavaScript and Typescript
+- C#
 
 My "current" projects are:
 - [Opensteamclient](https://github.com/20PercentRendered/opensteamclient)
