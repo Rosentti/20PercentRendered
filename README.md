@@ -22,6 +22,6 @@ I mostly code in:
 - C++
 
 My "current" projects are:
-- [Opensteamclient](https://github.com/20PercentRendered/steamclient_testing)
+- [Opensteamclient](https://github.com/20PercentRendered/opensteamclient)
 
 
